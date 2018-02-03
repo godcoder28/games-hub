@@ -3655,17 +3655,17 @@
 	z-index: 1;
 }
 .wrapper.style5{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 80%;
+	width: 100%;
 	position: relative;
-	left: 40px;
+	left: 5%;
+	padding-bottom: 3rem;
 }
 .wrapper.style6{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
+	right: 5%;
 
 }
 
