@@ -2686,7 +2686,13 @@
 			margin: 0 auto;
 			width: 50%;
 		}
-
+	.wrapper > .inner2{
+		width: 70%;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		align-content: center;
+	}
 		.wrapper.style1 {
 			background-color: #8a4680;
 			color: #e2d1df;
@@ -3668,6 +3674,9 @@
 	right: 5%;
 
 }
+.wrapper.style7{
+	width: 90%;
+}
 
 		@media screen and (max-width: 1280px) {
 
@@ -4608,3 +4617,9 @@
 
 		}
 
+#seven { width: 80%;
+display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
