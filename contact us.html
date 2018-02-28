@@ -44,6 +44,45 @@
 					<div class="box">
 						<div class="content">
 
+
+							<!-- Form -->
+							<hr>
+							<h3>Leave A Message</h3>
+
+							<form method="post" action="result.php">
+								<div class="row uniform">
+									<div class="6u 12u$(xsmall)">
+										<input type="text" name="name" id="name" value="" placeholder="Name" />
+									</div>
+									<div class="6u$ 12u$(xsmall)">
+										<input type="email" name="email" id="email" value="" placeholder="Email" />
+									</div>
+									<!-- Break -->
+									<div class="12u$">
+										<div class="select-wrapper">
+											<select name="category" id="category">
+												<option value="">- Category -</option>
+												<option value="1">Request New Game</option>
+												<option value="1">Existing Game Not Working</option>
+												<option value="1">Other Helps</option>
+											</select>
+										</div>
+									</div>
+
+									<div class="12u$">
+										<textarea name="message" id="message" placeholder="Enter message" rows="6"></textarea>
+									</div>
+									<!-- Break -->
+									<div class="12u$">
+										<ul class="actions">
+											<li><input name="submit" type="submit" value="Send Message" /></li>
+											<li><input type="reset" value="Reset"  /></li>
+										</ul>
+									</div>
+								</div>
+							</form>
+
+							<hr>
 						</div>
 
 					</div>
@@ -76,3 +115,4 @@
 
 	</body>
 </html>
+
