@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09fb7e90-77aa-4952-9138-cb2992128536" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact us.html" afterPath="$PROJECT_DIR$/contact us.html" />
     </list>
@@ -44,8 +42,8 @@
       <file leaf-file-name="contact us.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="51" column="65" lean-forward="false" selection-start-line="51" selection-start-column="65" selection-end-line="51" selection-end-column="65" />
+            <state relative-caret-position="399">
+              <caret line="44" column="45" lean-forward="false" selection-start-line="44" selection-start-column="45" selection-end-line="47" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -226,12 +224,12 @@
       <workItem from="1517832797680" duration="2399000" />
       <workItem from="1517850542759" duration="882000" />
       <workItem from="1519800639276" duration="150000" />
-      <workItem from="1519800929604" duration="8988000" />
+      <workItem from="1519800929604" duration="9655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38606000" />
+    <option name="totallyTimeSpent" value="39273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="4" width="1366" height="764" extended-state="6" />
@@ -243,7 +241,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3359375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3359375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -642,8 +640,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="51" column="65" lean-forward="false" selection-start-line="51" selection-start-column="65" selection-end-line="51" selection-end-column="65" />
+        <state relative-caret-position="399">
+          <caret line="44" column="45" lean-forward="false" selection-start-line="44" selection-start-column="45" selection-end-line="47" selection-end-column="41" />
           <folding />
         </state>
       </provider>
