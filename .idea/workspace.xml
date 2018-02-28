@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09fb7e90-77aa-4952-9138-cb2992128536" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gta5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gta5.html" afterPath="$PROJECT_DIR$/gta5.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="136" column="58" lean-forward="false" selection-start-line="136" selection-start-column="58" selection-end-line="136" selection-end-column="58" />
+            <state relative-caret-position="437">
+              <caret line="136" column="134" lean-forward="false" selection-start-line="136" selection-start-column="134" selection-end-line="136" selection-end-column="134" />
               <folding>
                 <element signature="e#4007#4013#0" expanded="true" />
               </folding>
@@ -30,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gta5.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gta5.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gta5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-702">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="131">
+              <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -129,6 +127,7 @@
         <option value="$PROJECT_DIR$/csgo.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/gta5.html" />
       </list>
     </option>
   </component>
@@ -173,6 +172,11 @@
             <path>
               <item name="gameshub website" type="b2602c69:ProjectViewProjectNode" />
               <item name="gameshub website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameshub website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameshub website" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,12 +237,12 @@
       <workItem from="1517850542759" duration="882000" />
       <workItem from="1519800639276" duration="150000" />
       <workItem from="1519800929604" duration="18141000" />
-      <workItem from="1519835428834" duration="1839000" />
+      <workItem from="1519835428834" duration="2450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49598000" />
+    <option name="totallyTimeSpent" value="50209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="4" width="1366" height="764" extended-state="6" />
@@ -612,21 +616,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gta5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="136" column="58" lean-forward="false" selection-start-line="136" selection-start-column="58" selection-end-line="136" selection-end-column="58" />
+        <state relative-caret-position="437">
+          <caret line="136" column="134" lean-forward="false" selection-start-line="136" selection-start-column="134" selection-end-line="136" selection-end-column="134" />
           <folding>
             <element signature="e#4007#4013#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gta5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
