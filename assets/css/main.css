@@ -2361,9 +2361,10 @@
 
 			.image.fit img {
 				width: 90%;
-				position: relative;
-				left: 30px;
-				top: 30px;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				padding-top: 5%;
 			}
 
 		.image.main {
@@ -4632,3 +4633,4 @@ display: block;
 #indexgameheading{
 	font-size: 1.75rem;
 }
+
