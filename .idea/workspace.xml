@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09fb7e90-77aa-4952-9138-cb2992128536" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codww2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codiw.html" afterPath="$PROJECT_DIR$/codiw.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codww2.html" afterPath="$PROJECT_DIR$/codww2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gta5.html" afterPath="$PROJECT_DIR$/gta5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,10 +22,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="136" column="134" lean-forward="false" selection-start-line="136" selection-start-column="134" selection-end-line="136" selection-end-column="134" />
+            <state relative-caret-position="221">
+              <caret line="151" column="103" lean-forward="false" selection-start-line="151" selection-start-column="103" selection-end-line="151" selection-end-column="103" />
               <folding>
-                <element signature="e#4007#4013#0" expanded="true" />
+                <element signature="e#4389#4395#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,8 +34,8 @@
       <file leaf-file-name="gta5.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gta5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="69" column="104" lean-forward="false" selection-start-line="69" selection-start-column="104" selection-end-line="69" selection-end-column="104" />
+            <state relative-caret-position="257">
+              <caret line="73" column="33" lean-forward="false" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -42,8 +44,8 @@
       <file leaf-file-name="codww2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codww2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="35" column="57" lean-forward="false" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -72,8 +74,8 @@
       <file leaf-file-name="codiw.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codiw.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -133,12 +135,12 @@
         <option value="$PROJECT_DIR$/contact us.html" />
         <option value="$PROJECT_DIR$/games.html" />
         <option value="$PROJECT_DIR$/codaw.html" />
-        <option value="$PROJECT_DIR$/codiw.html" />
         <option value="$PROJECT_DIR$/aboutus.html" />
         <option value="$PROJECT_DIR$/csgo.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gta5.html" />
+        <option value="$PROJECT_DIR$/codiw.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/codww2.html" />
       </list>
     </option>
@@ -244,12 +246,12 @@
       <workItem from="1517850542759" duration="882000" />
       <workItem from="1519800639276" duration="150000" />
       <workItem from="1519800929604" duration="18141000" />
-      <workItem from="1519835428834" duration="2701000" />
+      <workItem from="1519835428834" duration="3077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50460000" />
+    <option name="totallyTimeSpent" value="50836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="4" width="1366" height="764" extended-state="6" />
@@ -311,7 +313,7 @@
         <state relative-caret-position="1428">
           <caret line="84" column="77" lean-forward="false" selection-start-line="84" selection-start-column="77" selection-end-line="84" selection-end-column="77" />
           <folding>
-            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4389#4395#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -346,7 +348,7 @@
         <state relative-caret-position="1360">
           <caret line="80" column="70" lean-forward="true" selection-start-line="80" selection-start-column="70" selection-end-line="80" selection-end-column="70" />
           <folding>
-            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4389#4395#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -374,7 +376,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4389#4395#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -402,7 +404,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4389#4395#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -430,7 +432,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4389#4395#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -458,7 +460,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4389#4395#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -485,7 +487,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4007#4013#0" expanded="true" />
+            <element signature="e#4389#4395#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -587,14 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codiw.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csgo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -613,28 +607,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/codiw.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="136" column="134" lean-forward="false" selection-start-line="136" selection-start-column="134" selection-end-line="136" selection-end-column="134" />
-          <folding>
-            <element signature="e#4007#4013#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gta5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="69" column="104" lean-forward="false" selection-start-line="69" selection-start-column="104" selection-end-line="69" selection-end-column="104" />
+        <state relative-caret-position="257">
+          <caret line="73" column="33" lean-forward="false" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="151" column="103" lean-forward="false" selection-start-line="151" selection-start-column="103" selection-end-line="151" selection-end-column="103" />
+          <folding>
+            <element signature="e#4389#4395#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codww2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="35" column="57" lean-forward="false" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
           <folding />
         </state>
       </provider>
