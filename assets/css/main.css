@@ -4641,3 +4641,12 @@ display: block;
 #contactmebox{
 	width: 60%;
 }
+#uparrow{
+	border: solid #ffffff;
+	border-width: 0 3px 3px 0;
+	display: inline-block;
+	padding: 3px;
+	transform: rotate(-135deg);
+	-webkit-transform: rotate(-135deg);
+
+}
