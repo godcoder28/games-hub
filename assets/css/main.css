@@ -1698,6 +1698,10 @@
 		font-size: 2.5rem;
 	}
 
+	#contactmeheading{
+		font-weight: 390;
+	}
+
 	h3 {
 		font-size: 1.35rem;
 	}
@@ -4634,3 +4638,6 @@ display: block;
 	font-size: 1.75rem;
 }
 
+#contactmebox{
+	width: 60%;
+}
