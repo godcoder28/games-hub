@@ -1657,6 +1657,7 @@
 	p {
 		color: #252022;
 		margin: 0 0 2rem 0;
+		font-size: 1.25rem;
 	}
 	.games.para{
 		color: #252022;
@@ -2687,7 +2688,7 @@
 
 		.wrapper > .inner {
 			margin: 0 auto;
-			width: 50%;
+			width: 60%;
 		}
 	.wrapper > .inner2{
 		width: 70%;
@@ -4627,7 +4628,7 @@ display: block;
 
 }
 #texthyperlink{
-	color: #000000;
+	color: rgba(0, 180, 255, 1);
 	text-decoration: none;
 	font-weight: 900;
 }

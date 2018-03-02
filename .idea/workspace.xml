@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09fb7e90-77aa-4952-9138-cb2992128536" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codiw.html" afterPath="$PROJECT_DIR$/codiw.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codww2.html" afterPath="$PROJECT_DIR$/codww2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games.html" afterPath="$PROJECT_DIR$/games.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gta5.html" afterPath="$PROJECT_DIR$/gta5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtaIV.html" afterPath="$PROJECT_DIR$/gtaIV.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtavc.html" afterPath="$PROJECT_DIR$/gtavc.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,8 +34,8 @@
       <file leaf-file-name="gtavc.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gtavc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="42" />
+            <state relative-caret-position="144">
+              <caret line="53" column="273" lean-forward="false" selection-start-line="53" selection-start-column="273" selection-end-line="53" selection-end-column="273" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,8 @@
       <file leaf-file-name="gtaIV.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gtaIV.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+            <state relative-caret-position="198">
+              <caret line="53" column="272" lean-forward="false" selection-start-line="53" selection-start-column="272" selection-end-line="53" selection-end-column="272" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,8 @@
       <file leaf-file-name="gta5.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gta5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="64" column="79" lean-forward="false" selection-start-line="64" selection-start-column="79" selection-end-line="64" selection-end-column="79" />
+            <state relative-caret-position="270">
+              <caret line="66" column="273" lean-forward="false" selection-start-line="66" selection-start-column="210" selection-end-line="66" selection-end-column="273" />
               <folding />
             </state>
           </provider>
@@ -64,8 +64,8 @@
       <file leaf-file-name="codww2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codww2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="55" column="87" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="87" />
+            <state relative-caret-position="170">
+              <caret line="59" column="77" lean-forward="false" selection-start-line="59" selection-start-column="77" selection-end-line="59" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -74,18 +74,18 @@
       <file leaf-file-name="csgo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/csgo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="59" column="138" lean-forward="true" selection-start-line="59" selection-start-column="138" selection-end-line="59" selection-end-column="138" />
+            <state relative-caret-position="203">
+              <caret line="57" column="84" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="84" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="3666" column="4" lean-forward="false" selection-start-line="3666" selection-start-column="4" selection-end-line="3666" selection-end-column="4" />
+            <state relative-caret-position="147">
+              <caret line="1659" column="22" lean-forward="false" selection-start-line="1659" selection-start-column="22" selection-end-line="1659" selection-end-column="22" />
               <folding>
                 <element signature="e#3027#3338#0" expanded="false" />
               </folding>
@@ -103,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="games.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="games.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/games.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <caret line="70" column="69" lean-forward="false" selection-start-line="70" selection-start-column="69" selection-end-line="70" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -147,15 +147,15 @@
         <option value="$PROJECT_DIR$/contact us.html" />
         <option value="$PROJECT_DIR$/aboutus.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/gtavc.html" />
-        <option value="$PROJECT_DIR$/gtaIV.html" />
         <option value="$PROJECT_DIR$/codaw.html" />
-        <option value="$PROJECT_DIR$/csgo.html" />
         <option value="$PROJECT_DIR$/gta5.html" />
-        <option value="$PROJECT_DIR$/codww2.html" />
         <option value="$PROJECT_DIR$/codiw.html" />
         <option value="$PROJECT_DIR$/games.html" />
+        <option value="$PROJECT_DIR$/codww2.html" />
+        <option value="$PROJECT_DIR$/csgo.html" />
+        <option value="$PROJECT_DIR$/gtaIV.html" />
+        <option value="$PROJECT_DIR$/gtavc.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -276,12 +276,12 @@
       <workItem from="1519846648893" duration="598000" />
       <workItem from="1519886833121" duration="3083000" />
       <workItem from="1519897903584" duration="3884000" />
-      <workItem from="1519906648383" duration="4273000" />
+      <workItem from="1519906648383" duration="5854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65803000" />
+    <option name="totallyTimeSpent" value="67384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-23" width="1366" height="764" extended-state="6" />
@@ -587,24 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="3666" column="4" lean-forward="false" selection-start-line="3666" selection-start-column="4" selection-end-line="3666" selection-end-column="4" />
-          <folding>
-            <element signature="e#3027#3338#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gtavc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codaw.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -613,34 +595,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gta5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="64" column="79" lean-forward="false" selection-start-line="64" selection-start-column="79" selection-end-line="64" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codww2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="55" column="87" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="87" />
+        <state relative-caret-position="170">
+          <caret line="59" column="77" lean-forward="false" selection-start-line="59" selection-start-column="77" selection-end-line="59" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gtaIV.html">
+    <entry file="file://$PROJECT_DIR$/games.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csgo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="59" column="138" lean-forward="true" selection-start-line="59" selection-start-column="138" selection-end-line="59" selection-end-column="138" />
+          <caret line="70" column="69" lean-forward="false" selection-start-line="70" selection-start-column="69" selection-end-line="70" selection-end-column="69" />
           <folding />
         </state>
       </provider>
@@ -653,11 +619,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/games.html">
+    <entry file="file://$PROJECT_DIR$/csgo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        <state relative-caret-position="203">
+          <caret line="57" column="84" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="84" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gta5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="66" column="273" lean-forward="false" selection-start-line="66" selection-start-column="210" selection-end-line="66" selection-end-column="273" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtaIV.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="53" column="272" lean-forward="false" selection-start-line="53" selection-start-column="272" selection-end-line="53" selection-end-column="272" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtavc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="53" column="273" lean-forward="false" selection-start-line="53" selection-start-column="273" selection-end-line="53" selection-end-column="273" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="1659" column="22" lean-forward="false" selection-start-line="1659" selection-start-column="22" selection-end-line="1659" selection-end-column="22" />
+          <folding>
+            <element signature="e#3027#3338#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
