@@ -3664,10 +3664,9 @@
 	z-index: 1;
 }
 .wrapper.style5{
-	width: 100%;
-	position: relative;
-	left: 5%;
-	padding-bottom: 3rem;
+	display: block;
+	margin-left: auto;
+	padding: 0%;
 }
 .wrapper.style6{
 	display: block;
@@ -3680,6 +3679,7 @@
 .wrapper.style7{
 	width: 90%;
 }
+
 
 		@media screen and (max-width: 1280px) {
 
