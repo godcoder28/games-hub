@@ -4658,14 +4658,14 @@ display: block;
 	padding-bottom: 1rem;
 	padding-top: 1rem;	.
 }
-	 @media screen and (max-width: 800px) {
+	 @media screen and (max-width: 950px) {
 
 		 #gamesbox{
 			 width: 100%;
 		 }
 	 }
 
-	@media screen and (max-width: 1400px) and (min-width: 800px){
+	@media screen and (max-width: 1400px) and (min-width: 950px){
 	#gamesbox{
 		width: 50%;
 		}
