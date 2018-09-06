@@ -23,6 +23,12 @@
 		display: block;
 	}
 
+	article  {
+		color: #252022;
+		margin: 0 0 2rem 0;
+		font-size: 1.25rem;
+	}
+
 	body {
 		line-height: 1;
 	}
