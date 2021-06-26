@@ -1,21 +1,13 @@
 <?php
 
-$myemail = 'shivanggupta287@gmail.com';
+if(isset($_POST["submit"]))
+{
 
-$name = $_POST['name'];
-$email_address = $_POST['email'];
-$message = $_POST['message'];
-if (isset($_POST['submit'] {
+$name = $_POST["name"];
+echo($name);
+$file = Fopen("db.txt","a+");
 
-    $to = '$myemail';
-    $email_subject = "Contact form submission: $name";
-    $email_body = "You have received a new message. ".
-        " Here are the details:\n Name: $name \n ".
-        "Email: $email_address\n Message \n $message";
-    $headers = "From: $myemail\n";
-    $headers .= "Reply-To: $email_address";
-    mail($to,$email_subject,$email_body,$headers);
+fwrite($file,"\n".$name); /
 
-    header('Location:index.html');
 }
 ?>
