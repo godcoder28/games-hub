@@ -1,105 +1,102 @@
 <!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>Contact Us</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="assets/css/main.css"/>
+</head>
+<body class="subpage">
 
-<html>
-	<head>
-		<title>Contact Us</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
-	<body class="subpage">
+<!-- Header -->
+<header id="header">
+    <div class="logo"><a href="index.html">Games Hub <span>| Shivang Gupta</span></a></div>
+    <a href="#menu">Menu</a>
+</header>
 
-		<!-- Header -->
-			<header id="header">
-				<div class="logo"><a href="index.html">Games Hub <span>| Shivang Gupta</span></a></div>
-				<a href="#menu">Menu</a>
-			</header>
+<!-- Nav -->
+<nav id="menu">
+    <ul class="links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="aboutus.html">About Me</a></li>
+        <li><a href="#">Contact Me</a></li>
+    </ul>
+</nav>
 
-		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="aboutus.html">About Me</a></li>
-					<li><a href="#">Contact Me</a></li>
-				</ul>
-			</nav>
+<section>
+    <div id="two" class="wrapper style2">
+        <div class="inner2" id="contactmebox">
+            <div class="box">
+                <div class="content">
+                    <h2 id="contactmeheading">Contact Me</h2>
 
-			<section >
-				<div id="two" class="wrapper style2">
-					<div class="inner2" id="contactmebox">
-					<div class="box">
-						<div class="content">
-							<h2 id="contactmeheading">Contact Me</h2>
+                    <!-- Form -->
+                    <hr>
+                    <h3>Leave A Message</h3>
 
-							<!-- Form -->
-							<hr>
-							<h3>Leave A Message</h3>
+                    <form method="post" action="https://formspree.io/f/meqvzeab">
+                        <div class="row uniform">
+                            <div class="6u 12u$(xsmall)">
+                                <input type="text" name="name" id="name" value="" placeholder="Name"/>
+                            </div>
+                            <div class="6u$ 12u$(xsmall)">
+                                <input type="email" name="email" id="email" value="" placeholder="Email"/>
+                            </div>
+                            <!-- Break -->
+                            <div class="12u$">
+                                <div class="select-wrapper">
+                                    <select name="category" id="category">
+                                        <option value="">- Category -</option>
+                                        <option value="1">Request New Game</option>
+                                        <option value="1">Existing Game Not Working</option>
+                                        <option value="1">Other Helps</option>
+                                    </select>
+                                </div>
+                            </div>
 
-							<form method="post" action = "data.py" >
-								<div class="row uniform">
-									<div class="6u 12u$(xsmall)">
-										<input type="text" name="name" id="name" value="" placeholder="Name" />
-									</div>
-									<div class="6u$ 12u$(xsmall)">
-										<input type="email" name="email" id="email" value="" placeholder="Email" />
-									</div>
-									<!-- Break -->
-									<div class="12u$">
-										<div class="select-wrapper">
-											<select name="category" id="category">
-												<option value="">- Category -</option>
-												<option value="1">Request New Game</option>
-												<option value="1">Existing Game Not Working</option>
-												<option value="1">Other Helps</option>
-											</select>
-										</div>
-									</div>
+                            <div class="12u$">
+                                <textarea name="message" id="message" placeholder="Enter message" rows="6"></textarea>
+                            </div>
+                            <!-- Break -->
+                            <div class="12u$">
+                                <ul class="actions">
+                                    <li><input name="submit" type="submit" value="Send Message"/></li>
+                                    <li><input type="reset" value="Reset"/></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </form>
 
-									<div class="12u$">
-										<textarea name="message" id="message" placeholder="Enter message" rows="6"></textarea>
-									</div>
-									<!-- Break -->
-									<div class="12u$">
-										<ul class="actions">
-											<li><input name="submit" type="submit" value="Send Message" /></li>
-											<li><input type="reset" value="Reset"  /></li>
-										</ul>
-									</div>
-								</div>
-							</form>
+                    <hr>
+                </div>
 
-							<hr>
-						</div>
+            </div>
 
-					</div>
-				</div>
-				</div>
-				</div>
-			</section>
+        </div>
+    </div>
+</section>
 
-		<!-- Footer -->
-			<footer id="footer">
-				<div class="container">
-					<ul class="icons">
-						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-					</ul>
-				</div>
-				<div class="copyright">
-					&copy; Games Hub All rights reserved.
-				</div>
-			</footer>
+<!-- Footer -->
+<footer id="footer">
+    <div class="container">
+        <ul class="icons">
+            <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+            <li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+        </ul>
+    </div>
+    <div class="copyright">
+        &copy; Games Hub All rights reserved.
+    </div>
+</footer>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
 
-	</body>
+</body>
 </html>
-
-
