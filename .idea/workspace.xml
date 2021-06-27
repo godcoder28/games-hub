@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09fb7e90-77aa-4952-9138-cb2992128536" name="Default" comment="formspree added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.php" beforeDir="false" />
-    </list>
+    <list default="true" id="09fb7e90-77aa-4952-9138-cb2992128536" name="Default" comment="formspree added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +168,7 @@
       <workItem from="1536223294796" duration="1837000" />
       <workItem from="1536232454626" duration="986000" />
       <workItem from="1537629253118" duration="538000" />
-      <workItem from="1624724600895" duration="1962000" />
+      <workItem from="1624724600895" duration="1999000" />
     </task>
     <task id="LOCAL-00001" summary="form python backend">
       <created>1624725551355</created>
@@ -182,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624725551355</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="formspree added">
+      <created>1624726601614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624726601614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
